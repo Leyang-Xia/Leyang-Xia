@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leyang-Xia
-- I received the B.Sc. degree in mathematics from The Northwest University(China) in 2023. I am now an M.Phil. student at The Chinese University of Hong Kong(Shenzhen).
-- 🌱 I’m currently learning Network and Information theory.
+- I have a B.Sc. degree in mathematics. I am now a Computer and Information Engineering M.Phil. student at The Chinese University of Hong Kong(Shenzhen).
+- 🌱 I’m currently learning Network and Information/Coding theory.
 - My email address is XiaLeyang@outlook.com
 
 <!---
