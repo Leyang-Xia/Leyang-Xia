@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leyang-Xia
 - I have a B.Sc. degree in mathematics. I am now a Computer and Information Engineering M.Phil. student at The Chinese University of Hong Kong(Shenzhen).
-- 🌱 I’m currently learning Network and Information/Coding theory.
+- 🌱 I’m interested in coding theory, specifically network coding and storage code.
 - My email address is XiaLeyang@outlook.com
 
 <!---
