@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leyang-Xia
 -  I have a B.Sc. degree in mathematics. I am now pursuing a Master of Philosophy in Computer and Information Engineering at The Chinese University of Hong Kong(Shenzhen).
-- 🌱 I’m interested in coding theory, specifically network coding(BATS, IDNC, RLNC) and erasure codes for Distributed storage systems.
+- 🌱 I’m interested in coding theory, specifically network coding(BATS, IDNC, RLNC) and erasure codes for Distributed storage systems(LRC、Shift-XOR Codes).
 - My email address is XiaLeyang@outlook.com
 
 <!---
