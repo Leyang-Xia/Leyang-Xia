@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leyang-Xia
--  I have a B.Sc. degree in mathematics and an MPhil degree in Computer and Information Engineering.
--  I am currently working as a network technology engineer.
-- 🌱 I’m interested in coding theory, specifically network coding(BATS, IDNC, RLNC), erasure codes for Distributed storage systems(LRC、Shift-XOR Codes).
+-  I have an MPhil degree in Computer and Information Engineering at CUHK.
+-  I am currently working as a network technology engineer/researcher at HUAWEI.
+- 🌱 I’m interested in coding theory, specifically network coding, erasure codes in transmission, and storage.
 - My email address is XiaLeyang@outlook.com
 
 <!---
